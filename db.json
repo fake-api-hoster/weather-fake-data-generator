@@ -1,0 +1,236 @@
+{
+    "temperature": [
+        {
+            "id": 1,
+            "temperature": "15ºC"
+        },
+        {
+            "id": 2,
+            "temperature": "15ºC"
+        },
+        {
+            "id": 3,
+            "temperature": "16ºC"
+        },
+        {
+            "id": 4,
+            "temperature": "16ºC"
+        },
+        {
+            "id": 5,
+            "temperature": "17ºC"
+        },
+        {
+            "id": 6,
+            "temperature": "19ºC"
+        },
+        {
+            "id": 7,
+            "temperature": "21ºC"
+        },
+        {
+            "id": 8,
+            "temperature": "21ºC"
+        },
+        {
+            "id": 9,
+            "temperature": "21ºC"
+        },
+        {
+            "id": 10,
+            "temperature": "22ºC"
+        },
+        {
+            "id": 11,
+            "temperature": "23ºC"
+        },
+        {
+            "id": 12,
+            "temperature": "24ºC"
+        },
+        {
+            "id": 13,
+            "temperature": "24ºC"
+        },
+        {
+            "id": 14,
+            "temperature": "25ºC"
+        },
+        {
+            "id": 15,
+            "temperature": "23ºC"
+        },
+        {
+            "id": 16,
+            "temperature": "23ºC"
+        },
+        {
+            "id": 17,
+            "temperature": "22ºC"
+        },
+        {
+            "id": 18,
+            "temperature": "21ºC"
+        },
+        {
+            "id": 19,
+            "temperature": "19ºC"
+        },
+        {
+            "id": 20,
+            "temperature": "17ºC"
+        },
+        {
+            "id": 21,
+            "temperature": "16ºC"
+        },
+        {
+            "id": 22,
+            "temperature": "16ºC"
+        },
+        {
+            "id": 23,
+            "temperature": "15ºC"
+        }
+    ],
+    "weatherConditions": [
+        {
+            "id": 1,
+            "precipitation": "3%",
+            "wind": "11 km/h",
+            "humidity": "97%"
+        },
+        {
+            "id": 2,
+            "precipitation": "4%",
+            "wind": "12 km/h",
+            "humidity": "97%"
+        },
+        {
+            "id": 3,
+            "precipitation": "4%",
+            "wind": "10 km/h",
+            "humidity": "92%"
+        },
+        {
+            "id": 4,
+            "precipitation": "4%",
+            "wind": "9 km/h",
+            "humidity": "91%"
+        },
+        {
+            "id": 5,
+            "precipitation": "3%",
+            "wind": "11 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 6,
+            "precipitation": "5%",
+            "wind": "14 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 7,
+            "precipitation": "5%",
+            "wind": "11 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 8,
+            "precipitation": "6%",
+            "wind": "14 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 9,
+            "precipitation": "5%",
+            "wind": "11 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 10,
+            "precipitation": "3%",
+            "wind": "14 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 11,
+            "precipitation": "4%",
+            "wind": "11 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 12,
+            "precipitation": "4%",
+            "wind": "14 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 13,
+            "precipitation": "5%",
+            "wind": "11 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 14,
+            "precipitation": "6%",
+            "wind": "14 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 15,
+            "precipitation": "5%",
+            "wind": "8 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 16,
+            "precipitation": "3%",
+            "wind": "6 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 17,
+            "precipitation": "4%",
+            "wind": "8 km/h",
+            "humidity": "95%"
+        },
+        {
+            "id": 18,
+            "precipitation": "4%",
+            "wind": "7 km/h",
+            "humidity": "96%"
+        },
+        {
+            "id": 19,
+            "precipitation": "4%",
+            "wind": "14 km/h",
+            "humidity": "99%"
+        },
+        {
+            "id": 20,
+            "precipitation": "4%",
+            "wind": "14 km/h",
+            "humidity": "98%"
+        },
+        {
+            "id": 21,
+            "precipitation": "4%",
+            "wind": "14 km/h",
+            "humidity": "99%"
+        },
+        {
+            "id": 22,
+            "precipitation": "4%",
+            "wind": "17 km/h",
+            "humidity": "93%"
+        },
+        {
+            "id": 22,
+            "precipitation": "4%",
+            "wind": "14 km/h",
+            "humidity": "89%"
+        }
+    ]
+}
